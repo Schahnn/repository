@@ -7,7 +7,7 @@ public class PasswortChecker {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-	passwortchecker("PAssworT");
+	passwortchecker("PAsswort");
 	
 	
 	}
